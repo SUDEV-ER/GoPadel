@@ -1,0 +1,4 @@
+12:52:04.487 [main] INFO  goPadelPages.GoPadelLogin - Verifying successful login.
+12:52:04.622 [main] INFO  goPadelPages.GoPadelLogin - Logging with username - admin  and password - Admin@12345
+12:52:42.710 [main] INFO  goPadelPages.GoPadelLogin - Verifying successful login.
+12:52:42.742 [main] INFO  goPadelPages.GoPadelLogin - Logging with username - admin  and password - Admin@12345
